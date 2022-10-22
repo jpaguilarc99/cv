@@ -1,0 +1,27 @@
+/* Creación de estilos CSS para Personal Site */
+
+/* Cuerpo de la página */
+body{
+    background-color:#EAF6F6;;
+}
+
+/* Encabezado h1*/
+h1{
+    color: #66BFBF;
+    font-family: Arial;
+    text-shadow: 1px 1px 1px #1b1d1d, 2px 2px 1px #1b1d1d;
+}
+
+/* Encabezado h3*/
+h3{
+    color: #66BFBF;
+    font-family: Arial;
+}
+
+/* Lineas horizontales */
+hr{
+    border-style: dotted none none;       
+    border-width: 5px;
+    border-color: gray;            
+    width: 3%;        
+}   
